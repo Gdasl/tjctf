@@ -60,6 +60,8 @@ Full script:
 
 ```python
 super_secret_string = 'this_is_the_super_secret_string'
+
+## credit to wapiflapi for this function (http://wapiflapi.github.io)
 def brainfuckize(nb):
     if nb in [-2, -1, 0, 1]:
         return ["~({}<[])", "~([]<[])",
