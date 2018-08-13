@@ -1,2 +1,2 @@
-# tjctg
+# tjctf
 TJCTF individual tasks
